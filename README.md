@@ -54,12 +54,9 @@ This will:
   - `output/top_sources.png` — Top news sources
   - `output/publish_hours.png` — Publishing frequency by hour
   - `output/headline_wordcloud.png` — Word cloud of headline keywords
-  - `output/sentiment_chart.png` — Sentiment distribution (confidence ≥ 0.7)
   - `output/sentiment_confidence_hist.png` — Histogram of sentiment confidence scores
   - `output/top_keywords.png` — Top keywords in headlines (confidence ≥ 0.7)
-  - `output/topic_summary.png` — Bar chart of headline count per topic cluster
-  - `output/cluster_wordclouds/cluster_X.png` — Word cloud for each topic cluster
-  - `output/named_topic_summary.png` — Bar chart of headline count per named cluster
+
 - 🗃️ Data:
   - `data/top_headlines.csv` — Cleaned news headlines
   - `data/top_keywords.csv` — Top keywords and their counts (confidence ≥ 0.7)
